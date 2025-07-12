@@ -14,7 +14,7 @@ quit
 ```
 
 所以同理，如果要设置服务器定时更新，写个crontab在每天指定时间运行以下指令即可：
-steamcmd + login anonymous + app_update 2394010 validate + quit
+steamcmd + login anonymous + app_update 2394010 validate + quit + 服务器重启脚本
 
 所有能用steamcmd开服的游戏都同理，只是app id不同。
 
